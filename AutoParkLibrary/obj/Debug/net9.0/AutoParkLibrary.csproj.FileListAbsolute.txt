@@ -1,0 +1,11 @@
+C:\Users\Hanf\RiderProjects\AutoParkLibrary\AutoParkLibrary\bin\Debug\net9.0\AutoParkLibrary.deps.json
+C:\Users\Hanf\RiderProjects\AutoParkLibrary\AutoParkLibrary\bin\Debug\net9.0\AutoParkLibrary.dll
+C:\Users\Hanf\RiderProjects\AutoParkLibrary\AutoParkLibrary\bin\Debug\net9.0\AutoParkLibrary.pdb
+C:\Users\Hanf\RiderProjects\AutoParkLibrary\AutoParkLibrary\obj\Debug\net9.0\AutoParkLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hanf\RiderProjects\AutoParkLibrary\AutoParkLibrary\obj\Debug\net9.0\AutoParkLibrary.AssemblyInfoInputs.cache
+C:\Users\Hanf\RiderProjects\AutoParkLibrary\AutoParkLibrary\obj\Debug\net9.0\AutoParkLibrary.AssemblyInfo.cs
+C:\Users\Hanf\RiderProjects\AutoParkLibrary\AutoParkLibrary\obj\Debug\net9.0\AutoParkLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Hanf\RiderProjects\AutoParkLibrary\AutoParkLibrary\obj\Debug\net9.0\AutoParkLibrary.dll
+C:\Users\Hanf\RiderProjects\AutoParkLibrary\AutoParkLibrary\obj\Debug\net9.0\refint\AutoParkLibrary.dll
+C:\Users\Hanf\RiderProjects\AutoParkLibrary\AutoParkLibrary\obj\Debug\net9.0\AutoParkLibrary.pdb
+C:\Users\Hanf\RiderProjects\AutoParkLibrary\AutoParkLibrary\obj\Debug\net9.0\ref\AutoParkLibrary.dll
