@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoParkLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dff547585fec7d33dc114c85c30e41349fd9c386")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoParkLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoParkLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
